@@ -1,0 +1,15 @@
+.git
+.gitignore
+.qodo
+__pycache__
+**/__pycache__
+*.pyc
+.venv
+venv
+.env
+.env.*
+!.env.example
+tests
+.pytest_cache
+*.md
+docker-compose.yaml
